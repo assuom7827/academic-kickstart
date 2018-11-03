@@ -28,7 +28,7 @@ weight = 7
   description = "60%"
   
 [[feature]]
-  icon = "fa-node"
+  icon = "node"
   icon_pack = "fab"
   name = "NodeJs"
   description = "100%"  
