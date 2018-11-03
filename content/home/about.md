@@ -17,12 +17,12 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Magister en Informatique Option Système réseaux et Base de données"
+  course = "Magister in Computer Science, Option System Networks and Database, 2009"
   institution = "USTO-MB"
   year = 2009
 
 [[education.courses]]
-  course = "Ingénieur en Informatique"
+  course = "Computer Engineer"
   institution = "Université d'Oran Es-sénia"
   year = 2000
 
