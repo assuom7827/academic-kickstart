@@ -24,13 +24,13 @@ weight = 7
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "f3e2"
+  name = "python"
   description = "60%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "fa-node"
+  icon_pack = "fab"
+  name = "NodeJs"
   description = "100%"  
   
 [[feature]]
