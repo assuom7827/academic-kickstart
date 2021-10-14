@@ -9,11 +9,11 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Mohammed MOUSSA Home Page"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2021"
 
 theme = "academic"
 enableEmoji = true
@@ -231,7 +231,7 @@ enableGitInfo = false
   # Icon pack "fab" includes the following social network icons:
   #
   #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-  #   youtube, instagram, soundcloud
+  #   youtube, insram, soundcloud
   #
   #   For email icon, use "fas" icon pack, "envelope" icon, and
   #   "mailto:your@email.com" as the link.
