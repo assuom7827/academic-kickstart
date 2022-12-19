@@ -32,5 +32,5 @@ weight = 5
 
 # Biography
 
-Mohammed Moussa is a lecturer computer science at the [Université Abdelhamid Ibn Badis Mostaganem](https://www.univ-mosta.dz). Her research interests include remotes laboratories, E-learning Interoperability. He is a member of the Electromagnitic and optical guided laboratory, which develops a plateform for remote STEM practical work.
+Dr Mohammed Moussa is a lecturer computer science at the [Université Abdelhamid Ibn Badis Mostaganem](https://www.univ-mosta.dz). Her research interests include remotes laboratories, E-learning Interoperability and smart farming. He is a member of the Electromagnitic and optical guided laboratory, which develops a plateform for remote STEM practical work. I'am working in the CUPAGIS project.
 
