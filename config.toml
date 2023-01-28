@@ -254,7 +254,7 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=fMZFxvcAAAAJ&hl=fr&authuser=1"
 
-[[params.social]]
+  [[params.social]]
     icon = "linkedin"
     icon_pack = "ai"
     link = "https://www.linkedin.com/in/mohammed-moussa-dz/"
