@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Remote laboratories",
     "Internet of Things",
-    "Web Programming"
+    "Web Programming",
+    "Smart Farming"
   ]
 
 # List your qualifications (such as academic degrees).
