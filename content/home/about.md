@@ -17,6 +17,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD in Electronics, 2021"
+  institution = "UMAB"
+  year = 2021
+
+[[education.courses]]
   course = "Magister in Computer Science, Option System Networks and Database, 2009"
   institution = "USTO-MB"
   year = 2009
