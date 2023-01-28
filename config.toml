@@ -256,7 +256,7 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "ai"
+    icon_pack = "fab"
     link = "https://www.linkedin.com/in/mohammed-moussa-dz/"
   
   [[params.social]]
